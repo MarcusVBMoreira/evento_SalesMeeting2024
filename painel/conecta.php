@@ -1,9 +1,4 @@
 <?php
-    //$servidor = "localhost";
-    //$usuario = "u861018832_root";
-    //$senha = "Sit3d@Baxt3r";
-    //$banco = "u861018832_evento";
-
     $servidor = "localhost";
     $usuario = "root";
     $senha = "";
